@@ -1,1 +1,15 @@
+Codebuch
+Erhoben wurden die führenden Köpfe der Reichsbürger Razzia aus dem Artikel der TAZ.
+Quelle: https://taz.de/Razzia-gegen-Reichsbuerger/!5898636/
 
+
+Edgelist
+from = ID des Knoten Mitglied
+to = ID des Knoten Mitgliedschaft
+relation: 1 = ,2 = 
+
+Nodelist
+id = ID aus der Edgelist
+name = Voller Name/Bezeichnung
+sector = z.B. Politik, Militär, Journalismus, Wissenschaft, etc.
+type = 1 als Person, 2 als Organisation
