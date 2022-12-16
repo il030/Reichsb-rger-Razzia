@@ -1,7 +1,6 @@
 # Codebuch:
 
 Erhoben wurden die führenden Köpfe der Reichsbürger Razzia.
-
 Quellen: https://taz.de/Razzia-gegen-Reichsbuerger/!5898636/
          https://www.belltower.news/update-reichsbuerger-razzien-das-breite-netzwerk-der-revolutionsbereiten-reichsbuergerinnen-144131/
 
